@@ -12,4 +12,4 @@ Within the eclipse project is the **HostelworldSearchTests** which runs the requ
 
 ##Section 2) API Testing
 
-"# DerekGrantHostelWorld"
+Still some autentication items to do, but succesfully create public gist and getting id from same. I would in general create json objects for the info from GIt to allow much easier usage for testing, but didnt have time to complete.

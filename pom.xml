@@ -24,13 +24,13 @@
     <artifactId>selenium-java</artifactId>
     <version>3.0.1</version>
 </dependency>
-<!-- https://mvnrepository.com/artifact/org.eclipse.mylyn.github/org.eclipse.egit.github.core -->
-<dependency>
-    <groupId>org.eclipse.mylyn.github</groupId>
-    <artifactId>org.eclipse.egit.github.core</artifactId>
-    <version>2.1.5</version>
-</dependency>
 
+<!-- https://mvnrepository.com/artifact/org.json/json -->
+<dependency>
+    <groupId>org.json</groupId>
+    <artifactId>json</artifactId>
+    <version>1.5-20090211</version>
+</dependency>
 
 
   </dependencies>
